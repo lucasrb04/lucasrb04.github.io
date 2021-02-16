@@ -1,0 +1,14 @@
+.img-head {
+    border-radius: 50%;
+}
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+}
+body{
+    text-align: justify
+}
+.header {
+    background-image: url("images/1612363272921.jpeg");
+    background-size: contain;
+    text-align: left;
+}
