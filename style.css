@@ -1,14 +1,27 @@
 .img-head {
     border-radius: 50%;
 }
-h1 {
-    font-family: 'Julius Sans One', sans-serif;
-}
-body{
-    text-align: justify
-}
 .header {
     background-image: url("images/1612363272921.jpeg");
     background-size: contain;
     text-align: left;
 }
+.paragrafos{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item1 {
+    font-weight: 900;
+    font-size: 20px;
+}
+.item2 {
+    font-style: italic;
+}
+h1 {
+    font-family: 'Julius Sans One', sans-serif;
+    color: #428f68;
+}
+body{
+    text-align: justify;
+    background-color: #c2b3b2;
+}
+
