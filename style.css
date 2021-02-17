@@ -1,13 +1,22 @@
 .img-head {
     border-radius: 50%;
+    float: left;
+    margin-top: 40px;
+    padding: 15px;
+    background-color: aqua;
 }
 .header {
     background-image: url("images/1612363272921.jpeg");
     background-size: contain;
     text-align: left;
 }
+.borda {
+    border: 5px solid black;
+}
 .paragrafos{
     font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    margin-left: 150px;
 }
 .item1 {
     font-weight: 900;
@@ -16,9 +25,13 @@
 .item2 {
     font-style: italic;
 }
+ol li:nth-of-type(2n+1) {
+    background-color: blue;
+}
 h1 {
     font-family: 'Julius Sans One', sans-serif;
     color: #428f68;
+    text-align: center;
 }
 body{
     text-align: justify;
