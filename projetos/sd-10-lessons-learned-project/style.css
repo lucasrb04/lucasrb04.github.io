@@ -1,0 +1,44 @@
+#cabecalho {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: seagreen;
+  opacity: 30%;
+  color: rgb(173, 20, 20);
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+  padding-top: 60px;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+footer {
+  font-size: 10px;
+  background-color: rgb(185, 192, 201);
+
+}
+
+div {
+  display: inline-block;
+  width: 40%;
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+  vertical-align: top;
+  border-radius: 15px;
+  border: 2px solid gold;
+  line-height: 25px;
+}
