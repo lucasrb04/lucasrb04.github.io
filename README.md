@@ -3,7 +3,7 @@
 
   <img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Studying web development at trybe.
   
-   <strike>trying to be</strike> teacher
+  :teacher: <strike>trying to be</strike> teacher
    
    ---
    
