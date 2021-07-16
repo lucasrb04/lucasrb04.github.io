@@ -1,5 +1,6 @@
 
 # [Lucas Ribeiro](lucasrb04.github.io)
+
  ### Contact me 👋
 
   <a href="https://www.linkedin.com/in/lucasrb04/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -10,7 +11,7 @@
 
   <img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Studying web development at trybe.
   
-  :teacher: <strike>trying to be</strike> teacher
+  :teacher: <strike>Trying to be</strike> teacher
    
    ---
    
