@@ -38,4 +38,4 @@
 
 - :rabbit: I have a couple of rabbits.
 
-- :tent: I really enjoy camping
+- :tent: I really enjoy camping.
