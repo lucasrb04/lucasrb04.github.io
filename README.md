@@ -1,10 +1,6 @@
 
 # [Lucas Ribeiro](lucasrb04.github.io)
 
-<div align="center" width="50">
-  
-  
-
   <img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Studying web develpḿent at trybe.
   
   :electron: <strike>trying to be</strike> physics teacher
